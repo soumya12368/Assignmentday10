@@ -22,3 +22,4 @@ C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ProductDetalsApp\ProductDetal
 C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ProductDetalsApp\ProductDetalsApp\obj\Debug\net6.0\ProductDetalsApp.pdb
 C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ProductDetalsApp\ProductDetalsApp\obj\Debug\net6.0\ProductDetalsApp.genruntimeconfig.cache
 C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ProductDetalsApp\ProductDetalsApp\obj\Debug\net6.0\ref\ProductDetalsApp.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ProductDetalsApp\ProductDetalsApp\obj\Debug\net6.0\ProductDetalsApp.sourcelink.json

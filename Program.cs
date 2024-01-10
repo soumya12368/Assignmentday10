@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Automatic_Build;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -57,6 +58,14 @@ namespace Automatic_Build
             {
                 PName = "Creatine",
                 PPrice = 1200,
+                PBrand = "MuscleTech",
+                ManufacturingDate = DateTime.Parse("2023-04-20"),
+                ExpiryDate = DateTime.Parse("2023-08-31")
+            },
+             new Product
+            {
+                PName = "Cafine",
+                PPrice = 1500,
                 PBrand = "MuscleTech",
                 ManufacturingDate = DateTime.Parse("2023-04-20"),
                 ExpiryDate = DateTime.Parse("2023-08-31")
